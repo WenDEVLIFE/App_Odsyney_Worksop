@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Grade_Calculator</string>
+    <string name="math_grade">Math Grade</string>
+    <string name="aral_pan_grade">Aral Pan Grade</string>
+    <string name="mapeh_grade">Mapeh Grade</string>
+    <string name="science_grade">Science Grade</string>
+    <string name="english_grade">English Grade</string>
+</resources>
